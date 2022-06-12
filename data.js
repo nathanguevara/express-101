@@ -1,32 +1,37 @@
 module.exports = [
 	{
-		"name": "Herrod Spears",
-		"phone": "1-583-766-0337",
-		"email": "quam.elementum@yahoo.org",
-		"postalZip": "65686-304"
+		id: 1,
+		name: "Seth Cochran",
+		phone: "1-636-528-7753",
+		email: "ipsum.non@hotmail.couk",
+		postalZip: "751592"
 	},
 	{
-		"name": "September Buchanan",
-		"phone": "1-865-378-7578",
-		"email": "facilisi.sed@protonmail.org",
-		"postalZip": "3508-8529"
+		id: 2,
+		name: "Aline Petersen",
+		phone: "1-626-594-3886",
+		email: "vestibulum.massa@yahoo.ca",
+		postalZip: "641676"
 	},
 	{
-		"name": "Selma Wooten",
-		"phone": "1-126-784-7814",
-		"email": "in.tempus.eu@icloud.net",
-		"postalZip": "3445"
+		id: 3,
+		name: "Wesley Burgess",
+		phone: "(927) 755-6297",
+		email: "metus.eu@hotmail.ca",
+		postalZip: "58865"
 	},
 	{
-		"name": "Lee Fry",
-		"phone": "1-806-659-2404",
-		"email": "orci@hotmail.net",
-		"postalZip": "60466"
+		id: 4,
+		name: "Sydnee Fernandez",
+		phone: "1-726-270-6739",
+		email: "at@hotmail.couk",
+		postalZip: "16140"
 	},
 	{
-		"name": "Sylvester Hernandez",
-		"phone": "1-231-132-7751",
-		"email": "maecenas@aol.ca",
-		"postalZip": "868658"
+		id: 5,
+		name: "Colton Newman",
+		phone: "(770) 967-7247",
+		email: "mauris.sit@google.ca",
+		postalZip: "448277"
 	}
 ]
